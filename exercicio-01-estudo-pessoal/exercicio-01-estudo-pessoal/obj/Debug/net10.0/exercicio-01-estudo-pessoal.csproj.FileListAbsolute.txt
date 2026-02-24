@@ -1,0 +1,14 @@
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\bin\Debug\net10.0\exercicio-01-estudo-pessoal.exe
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\bin\Debug\net10.0\exercicio-01-estudo-pessoal.deps.json
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\bin\Debug\net10.0\exercicio-01-estudo-pessoal.runtimeconfig.json
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\bin\Debug\net10.0\exercicio-01-estudo-pessoal.dll
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\bin\Debug\net10.0\exercicio-01-estudo-pessoal.pdb
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.AssemblyInfoInputs.cache
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.AssemblyInfo.cs
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.csproj.CoreCompileInputs.cache
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.dll
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\refint\exercicio-01-estudo-pessoal.dll
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.pdb
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\exercicio-01-estudo-pessoal.genruntimeconfig.cache
+C:\Users\phdsc\workspace\csharp\exercicio-01-estudo-pessoal\exercicio-01-estudo-pessoal\obj\Debug\net10.0\ref\exercicio-01-estudo-pessoal.dll
