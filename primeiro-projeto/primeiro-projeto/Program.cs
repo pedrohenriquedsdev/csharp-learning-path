@@ -68,7 +68,7 @@ void RegistrarBanda()
     string nomeDaBanda = Console.ReadLine()!;
     bandasRegistradas.Add(nomeDaBanda, new List<int>());
     Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
-    Thread.Sleep(2000); //DELAY PROPOSITAL 
+    Thread.Sleep(2000); //DELAY DE EXBIÇÃO 
     Console.Clear(); //LIMPA O TERMINAL
     ExibirOpcoesDoMenu(); //EXIBE AS OPÇÕES DO MENU
 }
@@ -77,11 +77,6 @@ void MostrarBandasRegistradas()
 {
     Console.Clear();
     ExibirTituloDaOpcao("Registro das Bandas");
-    //for (int i = 0; i < listaDasBandas.Count; i++)
-    //{
-    //    Console.WriteLine($"Banda: {listaDasBandas[i]}");
-    //}
-
     foreach (string banda in bandasRegistradas.Keys)
     {
       Console.WriteLine($"Banda: {banda}");
@@ -137,3 +132,4 @@ void AvaliarUmaBanda()
 
 ExibirLogo();
 ExibirOpcoesDoMenu();
+ 
